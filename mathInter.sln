@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mathInter", "mathInter\mathInter.csproj", "{575C592B-C683-4BED-AC26-52B2987C60FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mathinter.test", "Mathinter.test\Mathinter.test.csproj", "{8DD4825E-5FEF-4941-A67F-57AE50FD54E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575C592B-C683-4BED-AC26-52B2987C60FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575C592B-C683-4BED-AC26-52B2987C60FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575C592B-C683-4BED-AC26-52B2987C60FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575C592B-C683-4BED-AC26-52B2987C60FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD4825E-5FEF-4941-A67F-57AE50FD54E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD4825E-5FEF-4941-A67F-57AE50FD54E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD4825E-5FEF-4941-A67F-57AE50FD54E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD4825E-5FEF-4941-A67F-57AE50FD54E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC909A4-F054-441F-9ECB-CCC09F77444D}
+	EndGlobalSection
+EndGlobal

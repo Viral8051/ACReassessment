@@ -1,0 +1,54 @@
+C:\Users\vc\source\repos\mathInter\mathInter\bin\Debug\mathInter.exe.config
+C:\Users\vc\source\repos\mathInter\mathInter\bin\Debug\mathInter.exe
+C:\Users\vc\source\repos\mathInter\mathInter\bin\Debug\mathInter.pdb
+C:\Users\vc\source\repos\mathInter\mathInter\obj\Debug\mathInter.csproj.AssemblyReference.cache
+C:\Users\vc\source\repos\mathInter\mathInter\obj\Debug\mathInter.csproj.SuggestedBindingRedirects.cache
+C:\Users\vc\source\repos\mathInter\mathInter\obj\Debug\mathInter.Form1.resources
+C:\Users\vc\source\repos\mathInter\mathInter\obj\Debug\mathInter.Properties.Resources.resources
+C:\Users\vc\source\repos\mathInter\mathInter\obj\Debug\mathInter.csproj.GenerateResource.cache
+C:\Users\vc\source\repos\mathInter\mathInter\obj\Debug\mathInter.csproj.CoreCompileInputs.cache
+C:\Users\vc\source\repos\mathInter\mathInter\obj\Debug\mathInter.exe
+C:\Users\vc\source\repos\mathInter\mathInter\obj\Debug\mathInter.pdb
+C:\Users\vc\source\repos\mathInter\mathInter\mathInter\bin\Debug\mathInter.exe.config
+C:\Users\vc\source\repos\mathInter\mathInter\mathInter\bin\Debug\mathInter.exe
+C:\Users\vc\source\repos\mathInter\mathInter\mathInter\bin\Debug\mathInter.pdb
+C:\Users\vc\source\repos\mathInter\mathInter\mathInter\obj\Debug\mathInter.csproj.AssemblyReference.cache
+C:\Users\vc\source\repos\mathInter\mathInter\mathInter\obj\Debug\mathInter.csproj.SuggestedBindingRedirects.cache
+C:\Users\vc\source\repos\mathInter\mathInter\mathInter\obj\Debug\mathInter.Form1.resources
+C:\Users\vc\source\repos\mathInter\mathInter\mathInter\obj\Debug\mathInter.Properties.Resources.resources
+C:\Users\vc\source\repos\mathInter\mathInter\mathInter\obj\Debug\mathInter.csproj.GenerateResource.cache
+C:\Users\vc\source\repos\mathInter\mathInter\mathInter\obj\Debug\mathInter.csproj.CoreCompileInputs.cache
+C:\Users\vc\source\repos\mathInter\mathInter\mathInter\obj\Debug\mathInter.exe
+C:\Users\vc\source\repos\mathInter\mathInter\mathInter\obj\Debug\mathInter.pdb
+C:\Angular\mathInter (2)\mathInter\mathInter\mathInter\bin\Debug\mathInter.exe.config
+C:\Angular\mathInter (2)\mathInter\mathInter\mathInter\bin\Debug\mathInter.exe
+C:\Angular\mathInter (2)\mathInter\mathInter\mathInter\bin\Debug\mathInter.pdb
+C:\Angular\mathInter (2)\mathInter\mathInter\mathInter\obj\Debug\mathInter.csproj.AssemblyReference.cache
+C:\Angular\mathInter (2)\mathInter\mathInter\mathInter\obj\Debug\mathInter.Form1.resources
+C:\Angular\mathInter (2)\mathInter\mathInter\mathInter\obj\Debug\mathInter.Properties.Resources.resources
+C:\Angular\mathInter (2)\mathInter\mathInter\mathInter\obj\Debug\mathInter.csproj.GenerateResource.cache
+C:\Angular\mathInter (2)\mathInter\mathInter\mathInter\obj\Debug\mathInter.csproj.CoreCompileInputs.cache
+C:\Angular\mathInter (2)\mathInter\mathInter\mathInter\obj\Debug\mathInter.exe
+C:\Angular\mathInter (2)\mathInter\mathInter\mathInter\obj\Debug\mathInter.pdb
+C:\Users\vc\Downloads\nick_mathInter\mathInter\mathInter\bin\Debug\mathInter.exe.config
+C:\Users\vc\Downloads\nick_mathInter\mathInter\mathInter\bin\Debug\mathInter.exe
+C:\Users\vc\Downloads\nick_mathInter\mathInter\mathInter\bin\Debug\mathInter.pdb
+C:\Users\vc\Downloads\nick_mathInter\mathInter\mathInter\obj\Debug\mathInter.csproj.AssemblyReference.cache
+C:\Users\vc\Downloads\nick_mathInter\mathInter\mathInter\obj\Debug\mathInter.csproj.SuggestedBindingRedirects.cache
+C:\Users\vc\Downloads\nick_mathInter\mathInter\mathInter\obj\Debug\mathInter.Form1.resources
+C:\Users\vc\Downloads\nick_mathInter\mathInter\mathInter\obj\Debug\mathInter.Properties.Resources.resources
+C:\Users\vc\Downloads\nick_mathInter\mathInter\mathInter\obj\Debug\mathInter.csproj.GenerateResource.cache
+C:\Users\vc\Downloads\nick_mathInter\mathInter\mathInter\obj\Debug\mathInter.csproj.CoreCompileInputs.cache
+C:\Users\vc\Downloads\nick_mathInter\mathInter\mathInter\obj\Debug\mathInter.exe
+C:\Users\vc\Downloads\nick_mathInter\mathInter\mathInter\obj\Debug\mathInter.pdb
+C:\Users\vc\Desktop\Reassessments-2023\Advancep-Cmp-7009A\mathInter\mathInter\bin\Debug\mathInter.exe.config
+C:\Users\vc\Desktop\Reassessments-2023\Advancep-Cmp-7009A\mathInter\mathInter\bin\Debug\mathInter.exe
+C:\Users\vc\Desktop\Reassessments-2023\Advancep-Cmp-7009A\mathInter\mathInter\bin\Debug\mathInter.pdb
+C:\Users\vc\Desktop\Reassessments-2023\Advancep-Cmp-7009A\mathInter\mathInter\obj\Debug\mathInter.csproj.AssemblyReference.cache
+C:\Users\vc\Desktop\Reassessments-2023\Advancep-Cmp-7009A\mathInter\mathInter\obj\Debug\mathInter.csproj.SuggestedBindingRedirects.cache
+C:\Users\vc\Desktop\Reassessments-2023\Advancep-Cmp-7009A\mathInter\mathInter\obj\Debug\mathInter.Form1.resources
+C:\Users\vc\Desktop\Reassessments-2023\Advancep-Cmp-7009A\mathInter\mathInter\obj\Debug\mathInter.Properties.Resources.resources
+C:\Users\vc\Desktop\Reassessments-2023\Advancep-Cmp-7009A\mathInter\mathInter\obj\Debug\mathInter.csproj.GenerateResource.cache
+C:\Users\vc\Desktop\Reassessments-2023\Advancep-Cmp-7009A\mathInter\mathInter\obj\Debug\mathInter.csproj.CoreCompileInputs.cache
+C:\Users\vc\Desktop\Reassessments-2023\Advancep-Cmp-7009A\mathInter\mathInter\obj\Debug\mathInter.exe
+C:\Users\vc\Desktop\Reassessments-2023\Advancep-Cmp-7009A\mathInter\mathInter\obj\Debug\mathInter.pdb
